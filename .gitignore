@@ -1,0 +1,10 @@
+
+# Book Source code
+Cpp/
+
+# Rendered example images
+Python/renders/
+
+# Compiled python files
+.pyc
+__pycache__/
