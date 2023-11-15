@@ -6,6 +6,14 @@ This does make that it is a rather messy project for now, especially since I am 
 
 Eventually I might transfer the project to other languages, if it is able to hold my interest.
 
+### Usage
+For now, all code is organised in the same way as the original source code. This may (will verty likely) change when I get more comfortable with the material.
+
+There is a `env.yml` file included so you can copy my environment exactly.
+
+To run the raytracer simply activate the environment and run
+`python main.py` from the Python directory
+
 ### Progress
 
 The image from Chapter 3 can be traced.
